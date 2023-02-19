@@ -1,0 +1,5 @@
+<% controle de fluxo (if, for, let...)%>
+<%= imprime escapando caracteres%>
+<%- imprime sem escapar caracteres%> 
+<%# comentario%>
+<%- include('inclui arquivo')%>
